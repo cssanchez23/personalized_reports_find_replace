@@ -1,0 +1,9 @@
+mkdir deliverable 
+cd deliverable/
+cp ../*docx .
+cp ../assembly.fasta .
+cp ../prokka/PROKKA_*.faa .
+cp ../prokka/PROKKA_*.ffn .
+cp ../prokka/PROKKA_*.fsa .
+cp ../prokka/PROKKA_*.gbf .
+cp ../prokka/PROKKA_*.gff .
